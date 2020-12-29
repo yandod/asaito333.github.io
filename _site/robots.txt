@@ -1,1 +1,1 @@
-Sitemap: https://asaito333.github.io/blog/sitemap.xml
+Sitemap: https://asaito333.github.io/sitemap.xml
